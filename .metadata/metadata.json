@@ -1,0 +1,13 @@
+{
+	"name": "Ascendance of a Bookworm",
+	"id": "com.github.bookworm",
+	"version": "0.0.1",
+	"game-id": "victoria3",
+	"supported_game_version": "1.10.*",
+	"short_description": "Your favourite light novel brought to life.",
+	"tags": ["overhaul"],
+	"relationships": [],
+	"game_custom_data": {
+			"multiplayer_synchronized": true
+	}
+}
