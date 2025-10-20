@@ -1,0 +1,11 @@
+STATES = {
+
+    s:STATE_CENTRAL_EHRENFEST = {
+        create_state = {
+            country = c:EHR
+            # owned_provinces =
+        }
+        add_homeland = cu:ehrenfesters
+    }
+
+}
