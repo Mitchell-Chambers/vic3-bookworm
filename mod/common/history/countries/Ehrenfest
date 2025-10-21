@@ -1,0 +1,35 @@
+COUNTRIES = {
+	C:EHR ?= {
+		effect_starting_technology_tier_2_tech = no
+
+
+		#Ehrenfest setup
+
+		#power structures
+		active_law = law_type:law_slavery_allowed
+		active_law = law_type:monarchy
+		active_law = law_type:autocracy
+		active_law = law_type:caste_system_enforced
+		active_law = law_type:state_religion
+		active_law = law_type:national_militia
+		active_law = law_type:no_home_affairs
+
+		#economy laws
+		
+		active_law = law_type:agrarianism
+		active_law = law_type:isolationism
+		active_law = law_type:homesteading
+		active_law = law_type:local_police_force
+
+		#human rights laws
+
+		active_law = law_type:outlawed_dissent
+		active_law = law_type:no_workers_rights
+		active_law = law_type:child_labor_allowed
+		active_law = law_type:women_in_the_workplace
+		active_law = law_type:migration_controls
+		#active_law = law_type: Alternate slavery law needed
+		active_law = law_type:guild_system
+
+	}
+}
