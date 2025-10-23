@@ -1,0 +1,62 @@
+﻿royalty = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = upper
+
+	allowed_professions = {
+		aristocrats
+	}
+}
+
+
+nobility = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = middle
+
+	allowed_professions = {
+		academics
+		bureaucrats
+		officers
+	}
+}
+
+adherents = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = middle
+
+	allowed_professions = {
+		clergymen
+	}
+}
+
+upper_commons = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = lower
+
+	allowed_professions = {
+		capitalists
+		farmers
+		shopkeepers
+		engineers
+	}
+}
+
+lower_commons = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = lower
+
+	allowed_professions = {
+		laborers
+		peasants
+		soldiers
+		clerks
+	}
+}
+
+indentured = {
+	social_hierarchy = yurgenschmidt_class_system
+	strata = lower
+
+	allowed_professions = {
+		slaves
+	}
+}

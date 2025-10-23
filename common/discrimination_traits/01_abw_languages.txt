@@ -1,0 +1,6 @@
+﻿# This list is alphabetically sorted. Please keep it so.
+
+language_yurgenschmidt = {
+	type = language
+	trait_group = language_group_yurgenschmidt
+}
