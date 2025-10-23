@@ -1,0 +1,10 @@
+﻿yurgenschmidt_class_system = {
+	pop_criteria = {
+		custom_tooltip = {
+			text = yurgenschmidt_class_system_trigger_desc
+			culture = {
+				has_discrimination_trait_group = heritage_group_yurgenschmidt
+			}
+		}
+	}
+}

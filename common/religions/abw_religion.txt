@@ -1,0 +1,5 @@
+﻿light_and_dark = {
+	icon = "gfx/interface/icons/religion_icons/catholic.dds"
+	heritage = heritage_temple
+	color = { 0.8 0.55 0.2 }
+}

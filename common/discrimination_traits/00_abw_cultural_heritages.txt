@@ -1,0 +1,16 @@
+﻿# This list is alphabetically sorted. Please keep it so.
+
+heritage_adalgisa = {
+	type = heritage
+	trait_group = heritage_group_yurgenschmidt
+}
+
+heritage_lanzenave = {
+	type = heritage
+	trait_group = heritage_group_yurgenschmidt
+}
+
+heritage_yurgenschmidt = {
+	type = heritage
+	trait_group = heritage_group_yurgenschmidt
+}
