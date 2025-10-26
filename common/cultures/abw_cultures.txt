@@ -1,6 +1,6 @@
-﻿ehrenfest = {
+﻿ehrenfester = {
 	color = rgb{ 193 141 23 } # wiki colours
-	religion = light_and_dark
+	religion = protestant
 	heritage = heritage_yurgenschmidt
 	language = language_yurgenschmidt
 

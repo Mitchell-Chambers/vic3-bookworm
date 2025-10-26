@@ -1,0 +1,12 @@
+﻿# Colours will come from the defined lists or as close to on the wiki
+
+EHR = {
+    color = { 193 141 23 }
+
+    country_type = recognized
+
+    tier = empire
+
+    cultures = { ehrenfester }
+    capital = { STATE_LANCASHIRE }
+}
